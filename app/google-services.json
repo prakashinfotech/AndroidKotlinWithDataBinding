@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "232706203502",
+    "firebase_url": "https://justnotification-d2c2b.firebaseio.com",
+    "project_id": "justnotification-d2c2b",
+    "storage_bucket": "justnotification-d2c2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232706203502:android:1b60a55c1fbeb8eb",
+        "android_client_info": {
+          "package_name": "com.psspl.azurenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232706203502-rsngjsgjk23d32qlcjsprss6u7f4lgug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psspl.azurenotification",
+            "certificate_hash": "17c9e6b207134f3cd121cfc2492b53719a51957a"
+          }
+        },
+        {
+          "client_id": "232706203502-0j32encc5gdf9f3qvf0nfjp6to6ukkpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGlWXBbOqRt4gyvTmEbKNiVCTNRtkruuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232706203502-0j32encc5gdf9f3qvf0nfjp6to6ukkpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232706203502:android:e71d441876fb5d18",
+        "android_client_info": {
+          "package_name": "com.example.haresh.kotlinexaple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232706203502-a2db1j66r3gcpe00as2culo0e7b9p064.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haresh.kotlinexaple",
+            "certificate_hash": "52ce8f9e3623fd13cc5df78c78cad247b0a0950d"
+          }
+        },
+        {
+          "client_id": "232706203502-0j32encc5gdf9f3qvf0nfjp6to6ukkpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGlWXBbOqRt4gyvTmEbKNiVCTNRtkruuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232706203502-0j32encc5gdf9f3qvf0nfjp6to6ukkpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kotlin with DataBinding POC</string>
+    <string name="message_editFirst">Please Enter Name</string>
+    <string name="message_editLastName">Please Enter LastName</string>
+    <string name="msg_loging">Login Successfully</string>
+    <string name="msg_username">Please enter user name.</string>
+    <string name="msg_password">Please enter password</string>
+    <string name="lbl_profile_page">Profile Page</string>
+    <string name="lbl_listpage">List Page</string>
+
+    <string-array name="dashboard">
+        <item>Profile Demo</item>
+        <item>List Demo</item>
+    </string-array>
+</resources>
