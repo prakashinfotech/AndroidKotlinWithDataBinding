@@ -20,6 +20,7 @@
         <activity android:name=".ListUsingKotlin" android:screenOrientation="portrait"/>
         <activity android:name=".ProfilePage" android:screenOrientation="portrait"/>
         <activity android:name=".DashBoard" android:screenOrientation="portrait"/>
+        <activity android:name=".ScanActivity" android:screenOrientation="portrait"/>
 
 
         <!--<meta-data

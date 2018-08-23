@@ -7,6 +7,7 @@
     <string name="msg_password">Please enter password</string>
     <string name="lbl_profile_page">Profile Page</string>
     <string name="lbl_listpage">List Page</string>
+    <string name="lbl_scandit">Scan Using Scandit</string>
 
     <string-array name="dashboard">
         <item>Profile Demo</item>

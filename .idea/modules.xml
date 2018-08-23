@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidKotlinWithDataBinding.iml" filepath="$PROJECT_DIR$/AndroidKotlinWithDataBinding.iml" />
       <module fileurl="file://D:\PrakashAndroidPortfolio\AndroidKotlinWithDataBinding\KotlinWithDataBinding.iml" filepath="D:\PrakashAndroidPortfolio\AndroidKotlinWithDataBinding\KotlinWithDataBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScanditBarcodeScanner/ScanditBarcodeScanner.iml" filepath="$PROJECT_DIR$/ScanditBarcodeScanner/ScanditBarcodeScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -26,6 +26,7 @@ class DashBoard :AppCompatActivity() {
         banding=DataBindingUtil.setContentView(this,R.layout.activity_dashboard)
         dashBoardList.add(getString(R.string.lbl_profile_page))
         dashBoardList.add(getString(R.string.lbl_listpage))
+        dashBoardList.add(getString(R.string.lbl_scandit))
         adapterDashboard = DashboardAdapter(applicationContext,this!!.dashBoardList!!)
         banding.recyclerview.setLayoutManager(GridLayoutManager(this, 2));
         //banding.recyclerview.setLayoutManager(LinearLayoutManager(this))

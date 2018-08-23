@@ -10,6 +10,7 @@ import android.widget.TextView
 import com.example.haresh.kotlinexaple.ListUsingKotlin
 import com.example.haresh.kotlinexaple.ProfilePage
 import com.example.haresh.kotlinexaple.R
+import com.example.haresh.kotlinexaple.ScanActivity
 
 /**
  * Created
@@ -31,6 +32,10 @@ class DashboardAdapter(var mcontaxt:Context,val mLocationList: List<String>) : R
             if(mLocationList.get(position).equals("Profile Page")) {
                 val intent = Intent(mcontaxt, ProfilePage::class.java)
                 intent.putExtra("userId",2)
+                intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+                mcontaxt.startActivity(intent)
+            }else if(mLocationList.get(position).equals(mcontaxt.getString(R.string.lbl_scandit))) {
+                val intent = Intent(mcontaxt, ScanActivity::class.java)
                 intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
                 mcontaxt.startActivity(intent)
             }else{
